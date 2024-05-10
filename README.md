@@ -5,9 +5,8 @@
 </p>
 
 ## 🙋‍♂️ About EliasDH.com
-  - 👯 Web hosting company [EliasDH](https://www.eliasdh.com).
-  - 📫 How to reach me **eliasdehondt@outlook.com**.
-  - 📖 Read my blogs [here](https://www.eliasdh.com/assets/html/blogs/blogs.html).
+  - 👯 Web hosting company [EliasDH](https://eliasdh.com).
+  - 📫 How to reach me **elias.dehondt@outlook.com**.
 
 ## 🚀 Languages and Tools:
 
