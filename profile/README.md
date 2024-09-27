@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25233962/233468473-16deac22-1283-486b-a2fc-a17b9179ac01.gif" />
+  <img src="https://github.com/user-attachments/assets/cdf2c925-42b4-4b14-8429-3d5b02abe639" style="width: 1000px; height: auto;" />
 </p>
 
 ## 🙋‍♂️ About EliasDH.com
