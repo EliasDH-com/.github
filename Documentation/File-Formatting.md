@@ -48,6 +48,12 @@ To maintain consistency across all files in our projects, we have established th
         * @since 01/01/2025
     **/
     ```
+    - BAT
+    ```bat
+    :: @author EliasDH Team
+    :: @see https://eliasdh.com
+    :: @since 01/01/2025
+    ```
 
 These guidelines must be followed across all projects to ensure a uniform and professional coding standard. Deviations from these rules should be justified and documented where necessary.
 
