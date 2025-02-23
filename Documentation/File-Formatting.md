@@ -43,7 +43,7 @@ To maintain consistency across all files in our projects, we have established th
     - CSS, SCSS, etc.
     ```css
     /**
-        * @author  EliasDH Team
+        * @author EliasDH Team
         * @see https://eliasdh.com
         * @since 01/01/2025
     **/
