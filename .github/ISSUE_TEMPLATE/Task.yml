@@ -1,0 +1,30 @@
+############################
+# @author EliasDH Team     #
+# @see https://eliasdh.com #
+# @since 01/01/2025        #
+############################
+name: Task Template
+description: Describe this task here.
+title: "[TASK]: "
+labels: ["Task", "Open"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time 🤍💙
+  - type: textarea
+    id: details
+    attributes:
+      label: Task details
+      description: Please write the contents of your task. This can be in markdown.
+      placeholder: Type here (keep it simple but clear).
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our Code of Conduct. 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
