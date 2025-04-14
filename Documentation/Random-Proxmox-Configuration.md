@@ -90,6 +90,9 @@ ls /etc/apt/sources.list.d/
 rm /etc/apt/sources.list.d/pve-enterprise.list.dpkg-dist
 ```
 
+### 👉Post 5: Closing the Lid
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/desktop_migration_and_administration_guide/closing-lid#closing-lid
+
 
 ## 🔗Links
 - 👯 Web hosting company [EliasDH.com](https://eliasdh.com).
