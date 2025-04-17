@@ -25,14 +25,14 @@ This tutorial explains how to install a Microsoft server on Ubuntu 24.04 LTS. Th
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y openjdk-21-jre-headless screen imagemagick
 mkdir -p ~/minecraft && cd ~/minecraft
-echo '[{"uuid": "", "name": "EliasDeHondt", "level": 4}]' > ops.json
+echo '[{"uuid": "", "name": "EliasDehondt", "level": 4}]' > ops.json
 wget https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar
 wget https://eliasdh.com/assets/media/images/logo-github.png -O server-icon.png
 convert server-icon.png -resize 64x64\! server-icon.png
 java -Xmx1G -Xms1G -jar server.jar nogui
 echo "eula=true" > eula.txt
 cat << EOF > server.properties
-gamemode=creative
+gamemode=survival
 motd=Welcome to EliasDH Minecraft Server
 max-players=100
 difficulty=normal
