@@ -7,9 +7,10 @@
 2. [🖖Introduction](#🖖introduction)
 3. [✨Posts](#✨posts)
     1. [👉Post 1: Template Proxmox "notes"](#👉post-1-template-proxmox-notes)
-    2. [👉Post 3: Remove node and cluster Proxmox](#👉post-3-remove-node-and-cluster-proxmox)
-    3. [👉Post 4: Remove (local-lvm) Proxmox](#👉post-4-remove-local-lvm-proxmox)
-    4. [👉Post 5: Remove Enterprise Repository](#👉post-5-remove-enterprise-repository)
+    2. [👉Post 2: Remove node and cluster Proxmox](#👉post-2-remove-node-and-cluster-proxmox)
+    3. [👉Post 3: Remove (local-lvm) Proxmox](#👉post-3-remove-local-lvm-proxmox)
+    4. [👉Post 4: Remove Enterprise Repository](#👉post-4-remove-enterprise-repository)
+    5. [👉Post 5: Closing the Lid](#👉post-5-closing-the-lid)
 4. [🔗Links](#🔗links)
 
 ---
@@ -89,6 +90,9 @@ nano /etc/apt/sources.list
 ls /etc/apt/sources.list.d/
 rm /etc/apt/sources.list.d/pve-enterprise.list.dpkg-dist
 ```
+
+### 👉Post 5: Closing the Lid
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/desktop_migration_and_administration_guide/closing-lid#closing-lid
 
 
 ## 🔗Links
